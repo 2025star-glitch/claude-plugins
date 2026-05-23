@@ -1,0 +1,11 @@
+{
+  "name": "2025star Plugin Marketplace",
+  "description": "주식 리서치 자동화 플러그인 모음",
+  "plugins": [
+    {
+      "name": "equity-research",
+      "description": "글로벌 주식 리서치 올인원 툴킷 — 11개 스킬",
+      "path": "./equity-research"
+    }
+  ]
+}
